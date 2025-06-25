@@ -1,5 +1,5 @@
 
-<h1 align="center">🎧 SoundNCS — Elite Audio Collection by Newbie Cyber Security</h1>
+<h1 align="center">🎧 SoundNCS — Elite Audio Collection by NEWBIE CYBER SECURITY</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
@@ -11,7 +11,7 @@
 
 ## 🌍 Overview
 
-**SoundNCS** is an elite, hand-curated audio library brought to you by the global cybersecurity community **Newbie Cyber Security (NCS)**. These soundtracks are crafted to enhance focus, inspiration, and deep concentration — perfect for penetration testing, red teaming, or creative development sessions.
+**SoundNCS** is an elite, hand-curated audio library brought to you by the global cybersecurity community **NEWBIE CYBER SECURITY (NCS)**. These soundtracks are crafted to enhance focus, inspiration, and deep concentration — perfect for penetration testing, red teaming, or creative development sessions.
 
 > 🎵 *“When code meets rhythm, innovation happens.”*
 
@@ -62,7 +62,7 @@ All audio files included are intended for educational, demonstrational, and pers
 
 ---
 
-## 🌐 About NCS (Newbie Cyber Security)
+## 🌐 About NCS (NEWBIE CYBER SECURITY)
 
 **NCS** is an international cybersecurity initiative founded to educate, inspire, and defend the digital world. While we build tools to secure systems, we also embrace the power of creativity and community through projects like **SoundNCS**.
 
@@ -99,6 +99,6 @@ Steps to contribute:
 🎧 Fork and remix if you want to add your own  
 🚀 Share with your hacker crew  
 
-Made with 🖤 by Rama & the global NCS family.
+Made with 🖤 by RamaFounderNCS & the global NCS family.
 
 ---
