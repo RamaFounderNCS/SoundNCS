@@ -26,6 +26,7 @@
 - `Dynasty.mp3`
 - `HappyNation.mp3`
 - `LaMaritza.mp3`
+- `LaMaritzaTikTok.mp3`
 - `MeGusTasTu.mp3`
 - `Tiwikarma.mp3`
 - `WildFlowers.mp3`
